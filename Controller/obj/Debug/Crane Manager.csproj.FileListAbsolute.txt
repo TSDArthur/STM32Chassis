@@ -1,0 +1,10 @@
+E:\Lift\CM\Crane Manager\bin\Debug\Crane Manager.exe.config
+E:\Lift\CM\Crane Manager\bin\Debug\Crane Manager.exe
+E:\Lift\CM\Crane Manager\bin\Debug\Crane Manager.pdb
+E:\Lift\CM\Crane Manager\obj\Debug\Crane Manager.csprojAssemblyReference.cache
+E:\Lift\CM\Crane Manager\obj\Debug\Crane_Manager.FormMain.resources
+E:\Lift\CM\Crane Manager\obj\Debug\Crane_Manager.Properties.Resources.resources
+E:\Lift\CM\Crane Manager\obj\Debug\Crane Manager.csproj.GenerateResource.cache
+E:\Lift\CM\Crane Manager\obj\Debug\Crane Manager.csproj.CoreCompileInputs.cache
+E:\Lift\CM\Crane Manager\obj\Debug\Crane Manager.exe
+E:\Lift\CM\Crane Manager\obj\Debug\Crane Manager.pdb
