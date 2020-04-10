@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "motor.h": "c",
+        "sys.h": "c",
+        "stm32f4xx.h": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "remote_usart.h": "c",
+        "movebase_control.h": "c",
+        "stdfunctions.h": "c",
+        "math.h": "c",
+        "pulley_servo.h": "c",
+        "pulley_vehicle.h": "c",
+        "type_traits": "c",
+        "remote_control.h": "c"
+    }
+}
