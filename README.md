@@ -1,4 +1,4 @@
-# STM32Chassis
+# STM32 Chassis
 
 ![N/A](https://raw.githubusercontent.com/TSDArthur/STM32Chassis/master/Images/Main.jpg)
 
